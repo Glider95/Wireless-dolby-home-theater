@@ -1,7 +1,5 @@
 # Wireless-dolby-home-theater
 
-Of course. Here is a summary of our conversation, outlining the architecture and key decisions for your advanced multi-room audio project.
-
 ### **Project Goal**
 
 The objective is to build a scalable, high-quality, synchronized multi-room audio system. The system will feature individual "smart speakers" capable of playing back specific channels from a source, with the advanced goal of supporting real-time Dolby Atmos decoding.
